@@ -1,4 +1,6 @@
 # 3DMP
+Everything that is in this repo was design using fusion360 and sliced by prusa slicer
+
 Each "homework %i" folder contains the i-th project
 -.f3d fusion 360 project
 -.stl the file to be sliced
