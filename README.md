@@ -39,5 +39,6 @@ The project contains the following file types:<br/>
 * .stl - representing the components of the scouter that can be 3dprinted (Obs. Scooter.stl is the stl file of the whole scooter; it is not intendeed to be printed, as it won't fulfill its mechanical purpose)<br/>
 <br/>
 Fusion 360 was used for designing and rendering. The slicing example (slicing_example.PNG located in STL Parts folder) was made using Prusa Slicer.<br/>
+Fusion project link: https://a360.co/3krctuj<br/>
 <br/>
 As resource, I've used the Scooter given as example (https://grabcad.com/library/scooter-71). The Scooter example was made by the satglob on GrabCAD Community
